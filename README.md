@@ -13,4 +13,4 @@ In this case, I tried to make a dashboard abut sales e-commerce transaction in U
 * pandas
 
 # Tableau Visualization
-* https://public.tableau.com/shared/68GS452BK?:display_count=y&:origin=viz_share_link
+* https://public.tableau.com/app/profile/jafar.sidiq/viz/SalesE-CommercePerformance/Dashboard1
